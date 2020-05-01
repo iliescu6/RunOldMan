@@ -1,0 +1,25 @@
+Builds/
+
+# =============== #
+# Unity generated #
+# =============== #
+RunOldMan/Temp/
+RunOldMan/Library/
+RunOldMan/Logs/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+RunOldMan/*.csproj
+*.pidb
+*.suo
+*.sln
+*.sln.hide
+*.user
+*.unityproj
+*.booproj
+.vs
